@@ -1,0 +1,3 @@
+VAR
+	PLC : USINT;
+END_VAR
