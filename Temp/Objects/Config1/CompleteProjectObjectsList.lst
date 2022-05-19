@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.6.3.55 SP"?>
+<Objects>
+  <Object
+    Path="C:\projects\lihui1\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132974196789544958" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132974149840942676"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132974149840957037"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132974150167850572" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132974149843421466" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132974149843351699"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132974149843392414"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132974149843411493"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132974149845769287" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132974149845698993"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132974149845729467"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132974149845759530"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132974149848020193" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132974149847959005"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132974149847989045"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132974149848020193"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132974149850173871" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132974149850114076"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132974149850144371"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132974149850173871"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\AsBrStr\binary.lby"
+    LogicalPath="Libraries.AsBrStr"
+    Type="Library"
+    LastWriteTime="132974150167721248" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\AsBrStr\AsBrStr.fun"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.fun"
+    Type="File"
+    LastWriteTime="132974150167661422"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\AsBrStr\AsBrStr.typ"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.typ"
+    Type="File"
+    LastWriteTime="132974150167691330"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Libraries\AsBrStr\AsBrStr.var"
+    LogicalPath="Libraries.AsBrStr.AsBrStr.var"
+    Type="File"
+    LastWriteTime="132974150167711256"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\RevInfo\Package.pkg"
+    LogicalPath="RevInfo"
+    Type="Package"
+    LastWriteTime="132844904100000000" />
+  <Object
+    Path="C:\projects\lihui1\Logical\RevInfo\getRevInfo.sh"
+    LogicalPath="RevInfo.getRevInfo.sh"
+    Type="File"
+    LastWriteTime="132847495760000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\RevInfo\RevInfo.var"
+    LogicalPath="RevInfo.RevInfo.var"
+    Type="File"
+    LastWriteTime="132847496120000000"
+    Private="true" />
+  <Object
+    Path="C:\projects\lihui1\Logical\RevInfo\RevInfo\IEC.prg"
+    LogicalPath="RevInfo.RevInfo"
+    Type="Program"
+    LastWriteTime="132844905420000000" />
+  <Object
+    Path="C:\projects\lihui1\Logical\RevInfo\RevInfo\Main.st"
+    LogicalPath="RevInfo.RevInfo.Main.st"
+    Type="File"
+    LastWriteTime="132857830640000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\RevInfo\RevInfo\Types.typ"
+    LogicalPath="RevInfo.RevInfo.Types.typ"
+    Type="File"
+    LastWriteTime="132806102440000000"
+    Private="true" />
+  <Object
+    Path="C:\projects\lihui1\Logical\RevInfo\RevInfo\Variables.var"
+    LogicalPath="RevInfo.RevInfo.Variables.var"
+    Type="File"
+    LastWriteTime="132806139480000000"
+    Private="true" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Program\IEC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="132974196789544958" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Program\Cyclic.ab"
+    LogicalPath="Program.Cyclic.ab"
+    Type="File"
+    LastWriteTime="132974196789439595"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Program\Init.ab"
+    LogicalPath="Program.Init.ab"
+    Type="File"
+    LastWriteTime="132974196789539547"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Program\Exit.ab"
+    LogicalPath="Program.Exit.ab"
+    Type="File"
+    LastWriteTime="132974196789544958"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="132974196789544958"
+    Private="true" />
+  <Object
+    Path="C:\projects\lihui1\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="132974198568348277"
+    Private="true" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="132974149867439784" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="132974200778711450"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132007326100000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\Cpu.pkg"
+    LogicalPath="Config1.X20CP1586"
+    Type="Cpu"
+    LastWriteTime="132974200728145109" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\Cpu.sw"
+    LogicalPath="Config1.X20CP1586.Cpu.sw"
+    Type="File"
+    LastWriteTime="132974196796774091"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\Cpu.per"
+    LogicalPath="Config1.X20CP1586.Cpu.per"
+    Type="File"
+    LastWriteTime="132974149851129423"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\IoMap.iom"
+    LogicalPath="Config1.X20CP1586.IoMap.iom"
+    Type="File"
+    LastWriteTime="132974149851139425"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\PvMap.vvm"
+    LogicalPath="Config1.X20CP1586.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132974149851146352"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\Connectivity\Package.pkg"
+    LogicalPath="Config1.X20CP1586.Connectivity"
+    Type="Package"
+    LastWriteTime="132974149851355581" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.X20CP1586.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132974149851345526" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\TextSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1586.TextSystem"
+    Type="Package"
+    LastWriteTime="132974149851401877" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\UnitSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1586.UnitSystem"
+    Type="Package"
+    LastWriteTime="132974149851441964" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132974149851966075" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132974149851568981" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132974149851539079"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132974149851559016"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132974149851856354" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132974149851703273" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132974149851663409" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132974149851703273" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132974149851783013" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132974149851773042" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132974149851816488" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132974149851846387" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132974149851886263" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\Firewall\Package.pkg"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.Firewall"
+    Type="Package"
+    LastWriteTime="132974149851956122" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\AccessAndSecurity\Firewall\Rules.firewallRules"
+    LogicalPath="Config1.X20CP1586.AccessAndSecurity.Firewall.Rules.firewallRules"
+    Type="File"
+    LastWriteTime="132974149851956122"
+    Private="false" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\mappControl\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappControl"
+    Type="Package"
+    LastWriteTime="132974149852011215" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\mappMotion\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappMotion"
+    Type="Package"
+    LastWriteTime="132974149852051098" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\mappServices\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappServices"
+    Type="Package"
+    LastWriteTime="132974149852137922" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\mappView\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappView"
+    Type="Package"
+    LastWriteTime="132974149852177980" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\X20CP1586\mappCockpit\Package.pkg"
+    LogicalPath="Config1.X20CP1586.mappCockpit"
+    Type="Package"
+    LastWriteTime="132974149852222173" />
+  <Object
+    Path="C:\projects\lihui1\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132974157285752551"
+    Private="false" />
+</Objects>
